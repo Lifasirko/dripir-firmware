@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "url": "",
-  "notes": "Початкова робоча версія без OTA"
+  "version": "1.2.1",
+  "url": "https://github.com/Lifasirko/dripir-firmware/releases/download/v1.2.1/dripir.bin",
+  "notes": "Перше тестове OTA-оновлення з версії 1.2.0 до 1.2.1"
 }
